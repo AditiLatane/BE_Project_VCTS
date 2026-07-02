@@ -46,7 +46,7 @@ B --> C[Simulate Treatment Effects]
 C --> D[Analyze Results]
 D --> E[Visualize Insights]
 ```
-![Uploading image.png…]()
+<img width="1885" height="585" alt="image" src="https://github.com/user-attachments/assets/650c5d29-4c4f-4cb5-89b9-da8f23e95137" />
 
 ---
 
