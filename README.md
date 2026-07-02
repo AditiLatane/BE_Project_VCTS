@@ -63,13 +63,20 @@ D --> E[Visualize Insights]
 git clone https://github.com/your-username/virtual-clinical-trial.git
 
 # Navigate to folder
-cd virtual-clinical-trial
+cd backend
 
-# Install dependencies
-pip install -r requirements.txt
+# Run backend
+python app.py
 
-# Run project
-python main.py
+# Open new terminal
+
+# Navigate to folder
+cd medical
+
+# Run frontend
+python manage.py runserver
+
+# Click on http://127.0.0.1:8000
 ```
 
 ---
