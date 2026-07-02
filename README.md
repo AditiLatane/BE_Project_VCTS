@@ -46,6 +46,7 @@ B --> C[Simulate Treatment Effects]
 C --> D[Analyze Results]
 D --> E[Visualize Insights]
 ```
+![Uploading image.png…]()
 
 ---
 
