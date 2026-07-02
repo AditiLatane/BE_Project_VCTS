@@ -34,18 +34,12 @@ This project creates a **virtual simulation environment** using **synthetic pati
 | Language           | Python |
 | Data Processing    | Pandas, NumPy |
 | Visualization      | Matplotlib, Seaborn |
-| Environment        | Jupyter Notebook |
+| Environment        | VS Code |
 
 ---
 
 ## 🏗️ System Workflow
-```mermaid
-flowchart LR
-A[Generate Synthetic Data] --> B[Assign Groups]
-B --> C[Simulate Treatment Effects]
-C --> D[Analyze Results]
-D --> E[Visualize Insights]
-```
+
 <img width="1885" height="585" alt="image" src="https://github.com/user-attachments/assets/650c5d29-4c4f-4cb5-89b9-da8f23e95137" />
 
 ---
@@ -60,24 +54,25 @@ D --> E[Visualize Insights]
 ## ⚙️ Installation & Setup
 ```bash
 # Clone repository
-git clone https://github.com/your-username/virtual-clinical-trial.git
+git clone https://github.com/AditiLatane/BE_Project_VCTS
 
-# Navigate to folder
+# Navigate to backend folder
 cd backend
 
-# Run backend
+# Open app.py in terminal and run backend
 python app.py
 
 # Open new terminal
 
-# Navigate to folder
+# Navigate to medical folder
 cd medical
 
-# Run frontend
+# Open manage.py in terminal and run frontend
 python manage.py runserver
 
 # Click on http://127.0.0.1:8000
 ```
+<img width="2000" height="1063" alt="image" src="https://github.com/user-attachments/assets/b2e2062c-2b81-443c-af38-9b1f2a9503ae" />
 
 ---
 
