@@ -95,3 +95,14 @@ python manage.py runserver
 - Cloud deployment (AWS / Azure)  
 - Real-time IoT health data  
 - Web-based dashboard  
+
+---
+
+## 👩‍💻 Author & Contact
+
+**Aditi Latane**  
+*Aspiring Data Analyst*
+
+Email: aditiplatane@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aditilataneofficial/)
+[Portfolio](https://aditi-latane-data-analyst-portfolio.vercel.app/)
