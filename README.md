@@ -104,5 +104,7 @@ python manage.py runserver
 *Aspiring Data Analyst*
 
 Email: aditiplatane@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/aditilataneofficial/)
+
 [Portfolio](https://aditi-latane-data-analyst-portfolio.vercel.app/)
